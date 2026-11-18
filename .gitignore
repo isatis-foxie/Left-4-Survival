@@ -1,12 +1,19 @@
-__pycache__
-
+# __pycache__
 
 /\!
 /\bin
 /\mapsrc
 /\materialsrc
 
-
-
 *.vpk
-poster_template.psd
+*.zip
+
+# Compiled stuff
+*.pdb
+
+# Later..
+utils
+
+
+
+# poster_template.psd

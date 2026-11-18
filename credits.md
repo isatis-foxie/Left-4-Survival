@@ -1,32 +1,28 @@
+<!-- This is sorted by a-z -->
 # Maps
-All original map authors! Most of the credits go to them!!
-
+ATIX Helicopter - [ATIX](https://gamebanana.com/members/113279)<br>
+Metro World - [V0idventure](https://gamebanana.com/members/2867988) (Thanks for permission for porting your map!)<br>
+Winter Helicopter [w6a7z99](https://gamebanana.com/mods/133076)
 
 # Map Suggestions
-zm_atix_helicopter - [Nivéal](https://steamcommunity.com/id/Niveal/)<br>
-zm_winter_helicopter - [Kairo](http://steamcommunity.com/profiles/76561198875416812/)<br>
+ATIX Helicopter - Myself.<br>
+Cliff Runaway - It is uncertain who suggested this map<br>
+Death star escape - It is uncertain who suggested this map<br>
+Lila Panic Escape - It is uncertain who suggested this map<br>
+Metro World - No one has suggested this map<br>
+Paper Escaper - [atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/)<br>
+Stone Temple - It is uncertain who suggested this map<br>
+Sorrentro Escape - It is uncertain who suggested this map<br>
+Titanic - It is uncertain who suggested this map<br>
+Venice Escape - It is uncertain who suggested this map<br>
 
-paper escaper - [atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/)<br>
-undertale - [Łufasu](https://steamcommunity.com/id/Wo-chanAircraftCarrier/)
-
-# Map Suggestions (unsure who suggested)
-cliff_runaway
-lila_panic_escape
-stone temple
-paper escape
-venice escape
-death escape (death star?)
-titanic map
-ze_sorrento_escape
-omahole? wtf
-
-# Map help
-[atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/) - helping with logic_timers for spawning special infected AND diagnosing game issues with the mod
+# Hammer Assistatince
+[atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/) - They've helped with logic_timers for spawning SI and diagnosing game issues with the project / mod
 
 # Testing
 [Łufasu](https://steamcommunity.com/id/Wo-chanAircraftCarrier/)
 [Amiantee](https://steamcommunity.com/profiles/76561198290580355/)
-[davidturner122](https://steamcommunity.com/id/ThePrinxe/)
+[PRINXE](https://steamcommunity.com/id/ThePrinxe/)
 
 # Motivation
 Everyone, seriously. Thank you all! I love you all!!

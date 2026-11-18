@@ -4,6 +4,6 @@ I spent a LONG while seeing what maps would work for survival maps, I hope you a
 
 
 If you want to contribute, please email me with details!
-Niveal_le_Catto@protonmail.com
+isatis_foxie@protonmail.com
 
-- Nivéal 'le Catto
+- Isatis
